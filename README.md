@@ -57,3 +57,5 @@ For questions or feedback, connect at:
 Email: [kanitihemasundar@gmail.com]
 
 LinkedIn: [www.linkedin.com/in/kaniti-hemasundar-1226592a6]
+
+![Dashboard Preview](C:\Users\BUJJI\Pictures\Screenshots\Screenshot (121).png)
